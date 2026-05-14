@@ -1,2 +1,3 @@
 this is my 1st practice
 this is my 2nd practice
+conflict resloved
